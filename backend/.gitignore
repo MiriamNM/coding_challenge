@@ -36,6 +36,7 @@ cdk.context.json
 .env.local
 .env.production
 .env.staging
+!.env.example
 
 # AWS credentials
 .aws/

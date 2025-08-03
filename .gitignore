@@ -9,6 +9,8 @@ node_modules/
 .env.staging
 .env.development
 *.env
+!.env.example
+
 
 # AWS credentials and configs
 .aws/
