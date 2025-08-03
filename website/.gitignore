@@ -31,7 +31,7 @@ yarn-error.log*
 .env.production
 .env.staging
 
-# Ignore all environment files except example
+# Ignore all environment files
 .env*
 !.env.example
 
