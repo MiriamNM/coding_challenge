@@ -9,6 +9,9 @@ node_modules/
 .env.staging
 .env.development
 *.env
+
+# Ignore all environment files except example
+.env*
 !.env.example
 
 
